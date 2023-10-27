@@ -13,6 +13,9 @@ Possible questions to answer:
   4 KPIs that influence to be in the top 50  
   
   5 Relationship between the region and danceability
+  
   6 Most listened song globally
+  
   7 Top 5 most danceable tracks
+  
   8 Danceability - energy relationship 

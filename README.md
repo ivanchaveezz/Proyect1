@@ -4,7 +4,7 @@
 '''
 Possible questions to answer:
 
-  1 Relationship between the explicitness of songs and their popularity.
+  1 Relationship between the explicitness of songs and their popularity. David
   
   2 Analyze the popularity with respect to the duration of each song  
   

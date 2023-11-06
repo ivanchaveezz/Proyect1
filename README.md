@@ -70,3 +70,56 @@ Latin America: Mexico, Colombia, Chile
 
 
 # Conclusions:
+
+## Is there a variable that influences popularity heavily? ##
+  
+We have not see any KPI that has a strong relation vs popularity, how ever doing this excercise we can see that between KPIs we have some moderate and strong relations. For this part we use the pearson coefficient.
+
+-Energy vs Loudness.
+
+-Danceability vs Valance
+
+-Energy vs Valance
+
+-Loudness vs  Danceability
+
+We can see the relations on the image below.
+![Alt text](image.png)
+
+## Which are the regions that listen more heavily themed music? ##
+
+We have some findings here with the Explicitness se image below
+
+Latam Region 83% of the top 10 are explicit.
+
+Nort America 49% of the top 10 are explcicit
+
+Europe       46 % of the Top 10 are epxlicit.
+
+Asia         36% of the top 10 are explicit
+
+![Alt text](image-1.png)
+
+## Which are the regions that prefer highly danceable songs? ##
+
+In the topic of danceability we have found that the Region that likes most danceables songs is Latam followed by Europe.
+
+![Alt text](image-2.png)
+  
+## Are there common attributes amongst the top 1 song in each country? ##
+
+We have found some attributes that the Top 1 songs have in common such as:
+
+Valance
+
+Danceability 
+
+Energy
+
+![Alt text](image-17.png)
+
+## Based on popularity (not rank) which is the most popular artist? ##
+
+Based on the Popularity of the song the most popular artits Globally it seems to be Bad Bunny followed by Taylor Swift
+
+![Alt text](image-18.png)

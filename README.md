@@ -51,7 +51,7 @@ Our main goal is to explore regional differences and variable correlation.Explor
   - Top artist by region:
   Based on popularity (not rank) which is the most popular artist
 
-We decided to concentrate only on one day because we wanted to see the relationship between the songs depending on their attributes and not their movement in the top. This allowed us to create the hypothesis that if there is an attribute that influences a song to be in the top or not.
+We decided to concentrate only on one day because we wanted to see the relationship between the songs depending on their attributes and not their movement in the top. This allowed us to create the "hypothesis" that if there is an attribute that influences a song to be in the top or not.
 
 
 Countries selection by region:

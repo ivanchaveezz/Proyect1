@@ -31,7 +31,7 @@ Top 50 songs from 73 countries, all displayed over 6 days. It mentiened attribut
 
 - Tempo:Estimated tempo in beats per minute of a given track (BPM)
 
--Liveness:Detects the presence of  live audience in the recording (0-1)
+- Liveness:Detects the presence of  live audience in the recording (0-1)
 
 #OBJECTIVE 
 

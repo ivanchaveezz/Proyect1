@@ -36,19 +36,19 @@ Our main goal is to explore regional differences and variable correlation.Explor
 
 INQUIRIES:
 
-  -Correlation with popularity
+  - Correlation with popularity:
   Is there a variable that influences popularity heavily?
   
-  -Explicitness and popularity
+  - Explicitness and popularity:
   Which are the regions that listen more heavily themed music.
   
-  -Danceability and region 
+  - Danceability and region:
   Which are the regions that prefer highly danceable songs.
   
-  - Top 1 analysis
+  - Top 1 analysis:
   Are there common attributes amongst the top 1 song in each country?
 
-  - Top artist by region
+  - Top artist by region:
   Based on popularity (not rank) which is the most popular artist
 
 We decided to concentrate only on one day because we wanted to see the relationship between the songs depending on their attributes and not their movement in the top. This allowed us to create the hypothesis that if there is an attribute that influences a song to be in the top or not.

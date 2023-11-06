@@ -8,6 +8,9 @@ Students:David Lara, Ivan Chavez, Rene Mondragon, Miguel Vargas.
 
 The original dataset was obteined from kagel and tracked the top 50 per country per day for the month of october.
 
+You can review the dataset use to this project here https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
+
+
 ¿Why the spotify dataset?
 
 - Provided several metrics to analyze

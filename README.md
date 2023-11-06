@@ -4,7 +4,7 @@ BOOTCAMP TEC DATA ANALYSIS
 
 Students:David Lara, Ivan Chavez, Rene Mondragon, Miguel Vargas.
 
-CONTEXT
+#CONTEXT
 
 The original dataset was obteined from kagel and tracked the top 50 per country per day for the month of october.
 
@@ -30,11 +30,11 @@ Top 50 songs from 73 countries, all displayed over 6 days. It mentiened attribut
 
 -Liveness:Detects the presence of  live audience in the recording (0-1)
 
-OBJECTIVE 
+#OBJECTIVE 
 
 Our main goal is to explore regional differences and variable correlation.Explore cultural differences by region, taking popularity and ranking as the standard for our analysis and find interesting correlations between metrics.
 
-INQUIRIES:
+#INQUIRIES:
 
   - Correlation with popularity:
   Is there a variable that influences popularity heavily?
@@ -65,7 +65,7 @@ Europe: France, United Kindom, Romania
 Latin America: Mexico, Colombia, Chile
 
 
-Conclusions:
+#Conclusions:
 
 
   

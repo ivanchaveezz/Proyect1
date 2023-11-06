@@ -1,15 +1,20 @@
 # Proyect1 Spotify Analysis 
+
 BOOTCAMP TEC DATA ANALYSIS
+
 Students:David Lara, Ivan Chave, Rene Mondragon, Miguel Vargas.
 
 CONTEXT
+
 The original dataset was obteined from kagel and tracked the top 50 per country per day for the month of october.
+
 ¿Why the spotify dataset?
 -provided several metrics to analyze
 -Explore cultural differences
 -Recent data and verifed
 
 Top 50 songs from 73 countries, all displayed over 6 days. It mentiened attributed of each songes based on the:
+
 -Danceability:Based on various elements returns the suitability of the song for dancing (0-1)
 -energy: Measure of intensity and activity (0-1)
 -popularity: Algorithm that measures the growing listener base for a song (0-100)
@@ -18,7 +23,9 @@ Top 50 songs from 73 countries, all displayed over 6 days. It mentiened attribut
 -Liveness:Detects the presence of  live audience in the recording (0-1)
 
 OBJECTIVE 
+
 Our main goal is to explore regional differences and variable correlation
+
 -Explore cultural differences by region, taking popularity and ranking as the standard for our analysis and find interesting correlations between metrics.
 
 INQUIRIES:
@@ -44,8 +51,11 @@ We decided to concentrate only on one day because we wanted to see the relations
 Countries selection by region:
 
 Asia: Republic of Korea, Taiwan, Singapore
+
 North America: USA, Canada
+
 Europe: France, United Kindom, Romania
+
 Latin America: Mexico, Colombia, Chile
 
 

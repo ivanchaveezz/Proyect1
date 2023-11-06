@@ -10,23 +10,23 @@ The original dataset was obteined from kagel and tracked the top 50 per country 
 
 ¿Why the spotify dataset?
 
--provided several metrics to analyze
+- Provided several metrics to analyze
 
--Explore cultural differences
+- Explore cultural differences
 
--Recent data and verifed
+- Recent data and verifed
 
 Top 50 songs from 73 countries, all displayed over 6 days. It mentiened attributed of each songes based on the:
 
--Danceability:Based on various elements returns the suitability of the song for dancing (0-1)
+- Danceability:Based on various elements returns the suitability of the song for dancing (0-1)
 
--energy: Measure of intensity and activity (0-1)
+- Energy: Measure of intensity and activity (0-1)
 
--popularity: Algorithm that measures the growing listener base for a song (0-100)
+- Popularity: Algorithm that measures the growing listener base for a song (0-100)
 
--Valance:Likelihood of a song to make the listener happy (0-1)
+- Valance:Likelihood of a song to make the listener happy (0-1)
 
--Tempo:Estimated tempo in beats per minute of a given track (BPM)
+- Tempo:Estimated tempo in beats per minute of a given track (BPM)
 
 -Liveness:Detects the presence of  live audience in the recording (0-1)
 

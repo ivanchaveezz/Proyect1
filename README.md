@@ -2,7 +2,7 @@
 
 BOOTCAMP TEC DATA ANALYSIS
 
-Students:David Lara, Ivan Chave, Rene Mondragon, Miguel Vargas.
+Students:David Lara, Ivan Chavez, Rene Mondragon, Miguel Vargas.
 
 CONTEXT
 
@@ -65,6 +65,9 @@ North America: USA, Canada
 Europe: France, United Kindom, Romania
 
 Latin America: Mexico, Colombia, Chile
+
+
+Conclusions:
 
 
   

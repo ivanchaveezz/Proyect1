@@ -85,7 +85,8 @@ We have not see any KPI that has a strong relation vs popularity, how ever doing
 -Loudness vs  Danceability
 
 We can see the relations on the image below.
-![Alt text](image.png)
+![image](https://github.com/ivanchaveezz/Proyect1/assets/143209988/75a597a5-85c1-44b8-a4bd-ad0dc02f19dd)
+
 
 ## Which are the regions that listen more heavily themed music? ##
 
@@ -99,7 +100,7 @@ Europe       46 % of the Top 10 are epxlicit.
 
 Asia         36% of the top 10 are explicit
 
-![Alt text](image-1.png)
+
 
 ## Which are the regions that prefer highly danceable songs? ##
 

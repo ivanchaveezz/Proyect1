@@ -32,9 +32,7 @@ Top 50 songs from 73 countries, all displayed over 6 days. It mentiened attribut
 
 OBJECTIVE 
 
-Our main goal is to explore regional differences and variable correlation
-
--Explore cultural differences by region, taking popularity and ranking as the standard for our analysis and find interesting correlations between metrics.
+Our main goal is to explore regional differences and variable correlation.Explore cultural differences by region, taking popularity and ranking as the standard for our analysis and find interesting correlations between metrics.
 
 INQUIRIES:
 

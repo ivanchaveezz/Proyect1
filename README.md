@@ -1,17 +1,19 @@
-# Proyect1 Spotify Analysis 
+# Proyect One
 
-BOOTCAMP TEC DATA ANALYSIS
+# Spotify Analysis Metrics #
+
+**BOOTCAMP TEC DATA ANALYSIS**
 
 Students:David Lara, Ivan Chavez, Rene Mondragon, Miguel Vargas.
 
-#CONTEXT
+#### CONTEXT ####
 
 The original dataset was obteined from kagel and tracked the top 50 per country per day for the month of october.
 
 You can review the dataset use to this project here https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated
 
 
-¿Why the spotify dataset?
+**¿Why the spotify dataset?**
 
 - Provided several metrics to analyze
 
@@ -33,11 +35,11 @@ Top 50 songs from 73 countries, all displayed over 6 days. It mentiened attribut
 
 - Liveness:Detects the presence of  live audience in the recording (0-1)
 
-#OBJECTIVE 
+**OBJECTIVE** 
 
 Our main goal is to explore regional differences and variable correlation.Explore cultural differences by region, taking popularity and ranking as the standard for our analysis and find interesting correlations between metrics.
 
-#INQUIRIES:
+**INQUIRIES:**
 
   - Correlation with popularity:
   Is there a variable that influences popularity heavily?

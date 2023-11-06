@@ -9,8 +9,11 @@ CONTEXT
 The original dataset was obteined from kagel and tracked the top 50 per country per day for the month of october.
 
 ¿Why the spotify dataset?
+
 -provided several metrics to analyze
+
 -Explore cultural differences
+
 -Recent data and verifed
 
 Top 50 songs from 73 countries, all displayed over 6 days. It mentiened attributed of each songes based on the:

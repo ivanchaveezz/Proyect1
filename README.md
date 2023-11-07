@@ -106,7 +106,8 @@ Asia         36% of the top 10 are explicit
 
 In the topic of danceability we have found that the Region that likes most danceables songs is Latam followed by Europe.
 
-![Alt text](image-2.png)
+![image](https://github.com/ivanchaveezz/Proyect1/assets/143209988/88a57fd1-8f1f-4e96-b7c9-b9f77a454f72)
+
   
 ## Are there common attributes amongst the top 1 song in each country? ##
 

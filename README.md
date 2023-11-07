@@ -6,6 +6,8 @@
 
 Students:David Lara, Ivan Chavez, Rene Mondragon, Miguel Vargas.
 
+**Jupyter Notebook final - Project Spotify_final.ipynb**
+
 #### CONTEXT ####
 
 The original dataset was obteined from kagel and tracked the top 50 per country per day for the month of october.

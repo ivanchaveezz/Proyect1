@@ -125,6 +125,7 @@ Energy
 
 Based on the Popularity of the song the most popular artits Globally it seems to be Bad Bunny followed by Taylor Swift
 
-![Alt text](image-18.png)
+![image](https://github.com/ivanchaveezz/Proyect1/assets/143209988/e84eea8a-1030-4f74-9bac-97cbb098f945)
+
 
   

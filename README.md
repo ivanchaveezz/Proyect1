@@ -119,7 +119,7 @@ Danceability
 
 Energy
 
-![Alt text](image-17.png)
+![image](https://github.com/ivanchaveezz/Proyect1/assets/143209988/622cba05-8cf0-4857-b33b-af7ea26967e4)
 
 ## Based on popularity (not rank) which is the most popular artist? ##
 
